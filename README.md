@@ -200,8 +200,6 @@ programming language(s) that you are using.
 
 * Google has [a good set of best practices](https://google.github.io/styleguide/)
 for different languages which can be a good jump-off point.
-* For Perl: [Perl Best Practices](http://shop.oreilly.com/product/9780596001735.do)
-(O'Reilly book).
 * For Python: [PEP8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
 * For Node JS: [The Tidyverse Style Guide](https://www.tatvasoft.com/blog/node-js-best-practices/).
 * (Further references here, please.)
